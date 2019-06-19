@@ -1,2 +1,4 @@
 # DemocraticDrive
-Final Project for Collective Play
+A collaborative 2d car racing game written in NodeJS
+
+## Inspiration
